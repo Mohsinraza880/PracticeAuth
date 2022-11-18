@@ -13,5 +13,5 @@
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-11-18 at 13 08 41](https://user-images.githubusercontent.com/35626099/202653050-cc4c1af4-f7fb-4862-84ab-a86a6ce403c8.png)
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-11-18 at 13 08 38](https://user-images.githubusercontent.com/35626099/202653055-c08289da-27f1-4257-9285-1253c55fe941.png)
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-11-17 at 16 10 07](https://user-images.githubusercontent.com/35626099/202653061-b5d5378c-5182-40eb-9bbc-194ca5cdefbd.png)
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-11-15 at 12 15 56](https://user-images.githubusercontent.com/35626099/202653066-c797b855-dfb9-4d14-8bf4-7ed8d8c6f29b.png)
+
 
