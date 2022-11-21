@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "practiceauth1e509614": {}
+      },
+      "api": {
+        "practiceauth": {}
       }
     }
   }
